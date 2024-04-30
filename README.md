@@ -1,4 +1,4 @@
-<h1> Hi There ! 👋 </h1>
+<h1 align -center> Hi There ! 👋 </h1>
 <h2>About Me </h2>
 I'm a passionate full-stack developer with expertise in HTML, CSS, JavaScript, React, Tailwind CSS, MongoDB, Express.js, and Node.js. I love creating web applications that are both user-friendly and visually appealing.
 
